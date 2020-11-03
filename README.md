@@ -1,2 +1,2 @@
 # empirical_research
-Some empirical research method
+Some empirical research methods
